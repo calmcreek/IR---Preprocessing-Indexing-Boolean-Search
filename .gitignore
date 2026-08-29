@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Test/debug output
+*.bak
+*.backup
+
+# Python test/cache directories
+.pytest_cache/
+.mypy_cache/
+
+# Local environment files
+.env
+.env.*
+
+# Do NOT ignore the Cranfield collection or assignment outputs.
+# They are required for the assignment.

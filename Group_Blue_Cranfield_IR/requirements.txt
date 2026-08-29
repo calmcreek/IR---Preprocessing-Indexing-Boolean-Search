@@ -1,0 +1,6 @@
+# Group Blue Cranfield Information Retrieval Assignment
+#
+# Python 3.8 or newer
+#
+# No external information retrieval library is required.
+# No external package is required for the Porter stemmer.

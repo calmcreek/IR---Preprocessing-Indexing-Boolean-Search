@@ -1,4 +1,3 @@
-# IR---Preprocessing-Indexing-Boolean-Search
 # Group Blue - Cranfield Boolean Information Retrieval System
 Run it: cd Group_Blue_Cranfield_IR 
         python3 Group_Blue_porter_stemmer.py  (words being converted to stems)
@@ -8,6 +7,7 @@ Run it: cd Group_Blue_Cranfield_IR
         or
         python3 Group_Blue_run_all.py
         python3 Group_Blue_boolean_search.py
+
 
 # 1. Assignment
 
@@ -246,3 +246,5 @@ OR returns documents containing either term.
 Document IDs are sorted.
 Query terms undergo the required preprocessing.
 Searching is performed using the index rather than directly scanning the collection.
+
+
